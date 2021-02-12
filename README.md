@@ -8,3 +8,9 @@ WHO wants a data driven approach which could help in suggesting a country which 
 ## Data Science Problem:
 
 Build a prediction engine which predicts the life expectancy based on various features like status of the country GDP Alcohol consumption, Adult Mortality Rate etc.
+
+## Types of ML Problem :
+> Regression Problem
+
+## DATASET :
+[dataset](https://github.com/nimahbub/LEP/blob/main/LifeExpectancyData.csv)
